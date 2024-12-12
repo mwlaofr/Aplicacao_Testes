@@ -72,3 +72,7 @@ Os testes demonstraram que o site do portfólio é capaz de lidar com cargas mod
 
 O JMeter se mostrou uma ferramenta eficiente para testes de desempenho, permitindo a análise detalhada do comportamento do site sob diferentes condições de carga.
 
+### Autoras
+- **Millena França**
+- **Melina Nogueira**
+
